@@ -1,3 +1,3 @@
-#Christmas Messenger
+# Christmas Messenger
 
-CSS got so much better!
+Simple Christmas-themed messenger interface using HTML and CSS
